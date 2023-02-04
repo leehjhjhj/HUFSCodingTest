@@ -4,6 +4,9 @@ lst = [
     for _ in range(n)
 ]
 result = 0
+
+
+
 def check_row(input_lst):
     global result
     cnt = 0
